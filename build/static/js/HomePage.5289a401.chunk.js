@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-template"]=this["webpackJsonpreact-template"]||[]).push([[1],{148:function(e,t,c){e.exports={home_page:"HomeView_home_page__1IZdz"}},165:function(e,t,c){"use strict";c.r(t),c.d(t,"default",(function(){return i}));var a=c(148),n=c.n(a),o=c(20),r=c(14),s=c(2),i=function(){var e=Object(r.c)(o.a);return Object(s.jsx)("div",{className:n.a.home_page,children:e?Object(s.jsx)("h1",{children:"My Homepage"}):Object(s.jsx)("h1",{children:"Welcome! Please register or login to your account"})})}}}]);
+//# sourceMappingURL=HomePage.5289a401.chunk.js.map

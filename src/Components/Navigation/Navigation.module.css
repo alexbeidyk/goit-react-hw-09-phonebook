@@ -1,0 +1,11 @@
+/* .nav_list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  font-size: bold;
+} */
+
+.link {
+  margin-right: 20px;
+  /* font-weight: bold; */
+}
